@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://78983.com/sitemap.xml
